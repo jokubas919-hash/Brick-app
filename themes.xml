@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.NfcBrick" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>

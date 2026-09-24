@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFC Brick</string>
+    <string name="accessibility_service_description">Locks selected apps and sends you home when your NFC lock is active.</string>
+</resources>
